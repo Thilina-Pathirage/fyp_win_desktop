@@ -1,0 +1,1 @@
+const String baseUrl = 'https://fyp-eud.azurewebsites.net';
